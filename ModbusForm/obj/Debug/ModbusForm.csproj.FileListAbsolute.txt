@@ -1,0 +1,13 @@
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\bin\Debug\ModbusForm.exe.config
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\bin\Debug\ModbusForm.exe
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\bin\Debug\ModbusForm.pdb
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\bin\Debug\EasyModbus.dll
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Debug\ModbusForm.Form1.resources
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Debug\ModbusForm.Form2.resources
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Debug\ModbusForm.Properties.Resources.resources
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Debug\ModbusForm.csproj.GenerateResource.cache
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Debug\ModbusForm.csproj.CoreCompileInputs.cache
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Debug\ModbusForm.csproj.CopyComplete
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Debug\ModbusForm.exe
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Debug\ModbusForm.pdb
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Debug\ModbusForm.csprojAssemblyReference.cache

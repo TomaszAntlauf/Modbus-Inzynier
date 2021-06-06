@@ -1,0 +1,13 @@
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\bin\Release\ModbusForm.exe.config
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\bin\Release\ModbusForm.exe
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\bin\Release\ModbusForm.pdb
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\bin\Release\EasyModbus.dll
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Release\ModbusForm.csprojAssemblyReference.cache
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Release\ModbusForm.Form1.resources
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Release\ModbusForm.Form2.resources
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Release\ModbusForm.Properties.Resources.resources
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Release\ModbusForm.csproj.GenerateResource.cache
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Release\ModbusForm.csproj.CoreCompileInputs.cache
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Release\ModbusForm.csproj.CopyComplete
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Release\ModbusForm.exe
+C:\Users\tomaa\Desktop\Nowy folder\ModbusProject-TaskFactoryApproach\ModbusProject-TaskFactoryApproach\ModbusProject-main\ModbusForm\obj\Release\ModbusForm.pdb
